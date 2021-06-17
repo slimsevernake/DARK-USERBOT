@@ -172,7 +172,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 Copyright (C) 2021 Harsh-78
 Released under [GNU](/LICENSE) by [@Harsh-78](https://github.com/harsh-78).
 
-Poject [DARKBOT](https://github.com/Harsh-78/dark-userbot) is free software: you can redistribute it and/or modify
+Poject [DARKBOT🔥](https://github.com/Harsh-78/dark-userbot) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.

@@ -14,8 +14,7 @@
 <h1 align="center"> <img height="25" src="https://github.com/Harsh-78/Harsh-78/blob/ced2ab0b7222eef17707ac82deee0c242c8cd11b/Indian_flag.gif"/>THE DARK USERBOT<img height="25" src="https://github.com/Harsh-78/Harsh-78/blob/ced2ab0b7222eef17707ac82deee0c242c8cd11b/Indian_flag.gif"/></h1>
 
 
-<h2 align="center"> <a href="https://t.me/DARK_BOT_UPDATES"><img height="25" src="https://github.com/Harsh-78/Harsh-78/blob/ced2ab0b7222eef17707ac82deee0c242c8cd11b/lighting_harsh.gif"/></h1>D A R K B O T<img height="25" src="https://github.com/Harsh-78/Harsh-78/blob/ced2ab0b7222eef17707ac82deee0c242c8cd11b/lighting_harsh.gif"/></h1>
-</a></h2>
+
 
 - This is a simple userbot made by [HARSH-78 ](https://t.me/Harsh_78)for telegram. 
 

@@ -11,7 +11,9 @@
 
 
 
-<h1 align="center"> 🇮🇳 THE DARK USERBOT 🇮🇳 </h1>
+<h1 align="center"> <img height="25" src="https://github.com/Harsh-78/Harsh-78/blob/5f77925b71d739d3b3eef61aca4c8f6028e95d9f/lighting_harsh.gif"/>
+🇮🇳 THE DARK USERBOT 🇮🇳<img height="25" src="https://github.com/Harsh-78/Harsh-78/blob/5f77925b71d739d3b3eef61aca4c8f6028e95d9f/lighting_harsh.gif"/>
+ </h1>
 
 <h2 align="center"> <a href="https://t.me/DARK_BOT_UPDATES">💥 DARKBOT 💥</a></h2>
 
